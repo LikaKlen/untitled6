@@ -67,7 +67,7 @@ public class Toy {
         }
 
     }
-    public static void Main(String[]args) {
+    public static void main(String[]args) {
         PlushToy Bear = new PlushToy( 5, 114, true, 12, "Plush", "China", 1000, "Angelina");
 
         System.out.println("Игрушка произведена в - " + Bear.getManufacturer());
