@@ -65,7 +65,7 @@ public class Toy {
         public void setOwner(String owner) {
             this.owner = owner;
         }
-
+,bbjkj
     }
     public static void main(String[]args) {
         PlushToy Bear = new PlushToy( 5, 114, true, 12, "Plush", "China", 1000, "Angelina");
