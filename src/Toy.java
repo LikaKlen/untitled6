@@ -1,3 +1,4 @@
+//big comment pls work
 public class Toy {
     private int Weight, Size, numberOfDetails;
     boolean Softness;
@@ -65,7 +66,6 @@ public class Toy {
         public void setOwner(String owner) {
             this.owner = owner;
         }
-
     }
     public static void main(String[]args) {
         PlushToy Bear = new PlushToy( 5, 114, true, 12, "Plush", "China", 1000, "Angelina");
